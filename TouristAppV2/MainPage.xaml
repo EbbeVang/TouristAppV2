@@ -9,6 +9,11 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="633,325,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="616,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top">
+        	<Run Text="Bruno was here"/>
+        	<LineBreak/>
+        	<Run/>
+        </TextBlock>
 
     </Grid>
 </Page>
